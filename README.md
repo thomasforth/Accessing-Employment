@@ -43,3 +43,5 @@ I have already done a significant amount of preliminary work on this project for
 http://www.tomforth.co.uk/dynamicbusmaps/TForthInnocentiveEconomistWriteUp.pdf
 
 The tool at http://www.tomforth.co.uk/dynamicbusmaps/ may still slightly work.
+
+![Does poor service leads to poor jobs in West Bradford? It seems to.](https://github.com/thomasforth/Accessing-Employment/blob/master/Access-to-Employment-Bradford-And-Leeds.jpg)
