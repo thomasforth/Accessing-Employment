@@ -1,11 +1,11 @@
 # Accessing Employment
 
-**an open transport planning tool**
+**An open transport planning tool**
 
 This is an entry to Nesta and the ODI's Open Data Challenge on jobs.
 
 ### Hasn't this already been done?
-This may seem somewhat similar to [Accession](http://www.citilabs.com/software/products/accession) — an existing and dated proprietary transport planning tool. A new and open approach will offer huge advantages.
+This may seem somewhat similar to [Accession](http://www.citilabs.com/software/products/accession) — an existing proprietary transport planning tool. A new and open approach will offer huge advantages. A lot has changed in a decade!
 
 ### The problem
 
