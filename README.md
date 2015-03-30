@@ -2,7 +2,7 @@
 
 **An open transport planning tool**
 
-This is an entry to Nesta and the ODI's Open Data Challenge on jobs.
+This is an entry to Nesta and the ODI's Open Data Challenge on jobs. See the [CollabFinder](http://collabfinder.com/project/1258/accessing-employment-an-open-transport-planning-tool.) description.
 
 ### Hasn't this already been done?
 This may seem somewhat similar to [Accession](http://www.citilabs.com/software/products/accession) — an existing proprietary transport planning tool. A new and open approach will offer huge advantages. A lot has changed in a decade!
