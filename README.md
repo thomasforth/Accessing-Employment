@@ -1,5 +1,7 @@
 # Accessing Employment
-*an open transport planning tool*
+
+**an open transport planning tool**
+
 This is an entry to Nesta and the ODI's Open Data Challenge on jobs.
 
 ### Hasn't this already been done?
