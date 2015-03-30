@@ -21,9 +21,9 @@ Public and private opposition to schemes such as Leeds' NGT system show that cur
 
 * Leeds Data Mill provide a useful subset of NaPTAN for West Yorkshire. http://www.leedsdatamill.org/dataset/bus-stops
 
-* nomis collects and makes available census data for very small areas (LLSOs of just a few streets). These can be linked to geographical files on geoportal.
+* nomis collects and makes available census data for very small areas (LLSOs of just a few streets). These can be linked to geographical files on geoportal for mapping and geographical analysis. Useful datasets include places of work, places of residence, access to a car or van, current family earnings and many more.
 https://www.nomisweb.co.uk/
-https://geoportal.statistics.gov.uk/geoportal/catalog/main/home.page for mapping and geographical analysis. Useful datasets include places of work, places of residence, access to a car or van, current family earnings
+https://geoportal.statistics.gov.uk/geoportal/catalog/main/home.page 
 
 * The Joseph Rowntree Foundation in have done a huge amount of work into ways to create **more jobs, better jobs**. Their baseline study is invaluable for understanding the connection between job quality and access to jobs.
 http://www.jrf.org.uk/publications/baseline-jobs-better-jobs
@@ -36,6 +36,8 @@ https://www.gov.uk/government/collections/english-indices-of-deprivation
 ### Existing work.
 
 I have already done a significant amount of preliminary work on this project for an innocentive/Economist innovation challenge. The write-up can be found at
+
 http://www.tomforth.co.uk/dynamicbusmaps/TForthInnocentiveEconomistWriteUp.pdf
+
 The tool at http://www.tomforth.co.uk/dynamicbusmaps/ may still slightly work.
 
