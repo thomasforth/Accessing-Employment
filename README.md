@@ -22,7 +22,6 @@ Public and private opposition to schemes such as Leeds' NGT system show that cur
 * Leeds Data Mill provide a useful subset of NaPTAN for West Yorkshire. http://www.leedsdatamill.org/dataset/bus-stops
 
 * nomis collects and makes available census data for very small areas (LLSOs of just a few streets). These can be linked to geographical files on geoportal for mapping and geographical analysis. Useful datasets include places of work, places of residence, access to a car or van, current family earnings and many more.
-
 https://www.nomisweb.co.uk/
 https://geoportal.statistics.gov.uk/geoportal/catalog/main/home.page 
 
