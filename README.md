@@ -3,8 +3,7 @@
 This is an entry to Nesta and the ODI's Open Data Challenge on jobs.
 
 ### Hasn't this already been done?
-This may seem somewhat similar to Accession [http://www.citilabs.com/software/products/accession
-] — an existing and dated proprietary transport planning tool. A new and open approach will offer huge advantages.
+This may seem somewhat similar to [Accession](http://www.citilabs.com/software/products/accession) — an existing and dated proprietary transport planning tool. A new and open approach will offer huge advantages.
 
 ### The problem
 
@@ -20,13 +19,21 @@ Public and private opposition to schemes such as Leeds' NGT system show that cur
 
 * Leeds Data Mill provide a useful subset of NaPTAN for West Yorkshire. http://www.leedsdatamill.org/dataset/bus-stops
 
-* nomis collects and makes available census data for very small areas (LLSOs of just a few streets) on https://www.nomisweb.co.uk/ these can be linked to geographical files on geoportal https://geoportal.statistics.gov.uk/geoportal/catalog/main/home.page for mapping and geographical analysis. Useful datasets include places of work, places of residence, access to a car or van, current family earnings.
+* nomis collects and makes available census data for very small areas (LLSOs of just a few streets). These can be linked to geographical files on geoportal.
+https://www.nomisweb.co.uk/
+https://geoportal.statistics.gov.uk/geoportal/catalog/main/home.page for mapping and geographical analysis. Useful datasets include places of work, places of residence, access to a car or van, current family earnings
 
-* The Joseph Rowntree Foundation in have done a huge amount of work into ways to create **more jobs, better jobs**. Their baseline study is invaluable for understanding the connection between job quality and access to jobs. http://www.jrf.org.uk/publications/baseline-jobs-better-jobs
+* The Joseph Rowntree Foundation in have done a huge amount of work into ways to create **more jobs, better jobs**. Their baseline study is invaluable for understanding the connection between job quality and access to jobs.
+http://www.jrf.org.uk/publications/baseline-jobs-better-jobs
 
-* UK indices of deprivation datasets. https://www.gov.uk/government/collections/english-indices-of-deprivation
+* UK indices of deprivation datasets.
+https://www.gov.uk/government/collections/english-indices-of-deprivation
+
+* We are currently working with West Yorkshire Metro to release data on concessionary bus use in West Yorkshire.
 
 ### Existing work.
 
-I have already done a significant amount of preliminary work on this project for an innocentive/Economist innovation challenge. The write-up can be found at tomforth.co.uk/dynamicbusmaps/TForthInnocentiveEconomistWriteUp.pdf and the tool at tomforth.co.uk/dynamicbusmaps/ may still slightly work.
+I have already done a significant amount of preliminary work on this project for an innocentive/Economist innovation challenge. The write-up can be found at
+tomforth.co.uk/dynamicbusmaps/TForthInnocentiveEconomistWriteUp.pdf
+The tool at tomforth.co.uk/dynamicbusmaps/ may still slightly work.
 
