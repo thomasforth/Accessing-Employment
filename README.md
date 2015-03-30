@@ -36,6 +36,6 @@ https://www.gov.uk/government/collections/english-indices-of-deprivation
 ### Existing work.
 
 I have already done a significant amount of preliminary work on this project for an innocentive/Economist innovation challenge. The write-up can be found at
-tomforth.co.uk/dynamicbusmaps/TForthInnocentiveEconomistWriteUp.pdf
-The tool at tomforth.co.uk/dynamicbusmaps/ may still slightly work.
+http://www.tomforth.co.uk/dynamicbusmaps/TForthInnocentiveEconomistWriteUp.pdf
+The tool at http://www.tomforth.co.uk/dynamicbusmaps/ may still slightly work.
 
